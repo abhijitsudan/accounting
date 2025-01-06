@@ -1,9 +1,80 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4">
   <diagram name="Page-1" id="OvrnYrUBiTsxFBhfOty4">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="0KLDVPVlo4A4nNWfzgog-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0KLDVPVlo4A4nNWfzgog-1" target="0KLDVPVlo4A4nNWfzgog-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="70" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0KLDVPVlo4A4nNWfzgog-1" value="Transactions" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="100" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0KLDVPVlo4A4nNWfzgog-2" value="Accounts" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="190" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0KLDVPVlo4A4nNWfzgog-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0KLDVPVlo4A4nNWfzgog-3" target="0KLDVPVlo4A4nNWfzgog-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0KLDVPVlo4A4nNWfzgog-3" value="Footnotes" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="340" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0KLDVPVlo4A4nNWfzgog-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="0KLDVPVlo4A4nNWfzgog-4" target="0KLDVPVlo4A4nNWfzgog-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="760" />
+              <mxPoint x="70" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0KLDVPVlo4A4nNWfzgog-4" value="Codelets" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="700" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0KLDVPVlo4A4nNWfzgog-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.037;entryY=0.338;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0KLDVPVlo4A4nNWfzgog-1" target="0KLDVPVlo4A4nNWfzgog-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="67" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0KLDVPVlo4A4nNWfzgog-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.413;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0KLDVPVlo4A4nNWfzgog-3" target="0KLDVPVlo4A4nNWfzgog-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0KLDVPVlo4A4nNWfzgog-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0KLDVPVlo4A4nNWfzgog-8" target="0KLDVPVlo4A4nNWfzgog-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0KLDVPVlo4A4nNWfzgog-8" value="Revenue&lt;div&gt;Recognition&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="340" y="530" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0KLDVPVlo4A4nNWfzgog-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="0KLDVPVlo4A4nNWfzgog-9" target="0KLDVPVlo4A4nNWfzgog-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0KLDVPVlo4A4nNWfzgog-9" value="Expense" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="340" y="640" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0KLDVPVlo4A4nNWfzgog-10" value="Costs" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="340" y="420" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0KLDVPVlo4A4nNWfzgog-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.025;entryY=0.163;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0KLDVPVlo4A4nNWfzgog-10" target="0KLDVPVlo4A4nNWfzgog-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="460" />
+              <mxPoint x="270" y="283" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0KLDVPVlo4A4nNWfzgog-16" value="Entries" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="30" y="470" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
